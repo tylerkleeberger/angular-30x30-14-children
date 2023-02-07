@@ -1,0 +1,28 @@
+{
+  "plays": [
+    {
+      "id": "1",
+      "title": "Cross",
+      "description": "Pass",
+      "favorite": "true"
+    },
+    {
+      "id": "2",
+      "title": "Snag",
+      "description": "Pass",
+      "favorite": "true"
+    },
+    {
+      "id": "3",
+      "title": "10/11",
+      "description": "Run",
+      "favorite": "true"
+    },
+    {
+      "id": "4",
+      "title": "Slice",
+      "description": "RPO",
+      "favorite": "false"
+    }
+  ]
+}
